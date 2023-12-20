@@ -125,7 +125,7 @@ def main():
 
         if choice == "1":
             bubble_sort(array)
-            print("Pole seřazeno pomocí třídění bublinkové.")
+            print(".")
         elif choice == "2":
             selection_sort(array)
             print("Pole seřazeno pomocí třídění výběrem.")
